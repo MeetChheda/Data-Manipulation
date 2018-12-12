@@ -12,3 +12,5 @@ For further reference, prefer using offical docs:
 <a href ="https://matplotlib.org/api/pyplot_api.html">Matplotlib</a>
 
 I hope this notebook was helpful.
+
+The dataset used is given.
